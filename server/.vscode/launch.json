@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FlywireSpringBootApp<flywire-exercise>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.flywire.exercise.FlywireSpringBootApp",
+            "projectName": "flywire-exercise",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

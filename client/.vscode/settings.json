@@ -1,0 +1,6 @@
+{
+    "jest.runMode": "on-demand",
+    "typescript.preferences.importModuleSpecifier": "non-relative",
+    "javascript.preferences.importModuleSpecifier": "non-relative",
+    "liveServer.settings.root": "dist"
+}
